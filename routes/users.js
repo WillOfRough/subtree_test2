@@ -6,6 +6,7 @@ router.get('/', function(req, res, next) {
   res.send('respond with a resource');
   console.log("user_test");
   console.log("user_test1");
+  console.log("user_test2");
 });
 
 module.exports = router;
